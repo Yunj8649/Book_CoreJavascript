@@ -1,2 +1,3 @@
 # Book_CoreJavascript
- 책 읽기!
+
+코어 자바스크립트 책읽기!
